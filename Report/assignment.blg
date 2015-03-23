@@ -1,0 +1,77 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: assignment.aux
+The style file: IEEEtran.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: assignment.bib.bib
+Warning--entry type for "tutorial" isn't style-file defined
+--line 12 of file assignment.bib.bib
+Warning--entry type for "book0" isn't style-file defined
+--line 17 of file assignment.bib.bib
+Warning--entry type for "book1" isn't style-file defined
+--line 22 of file assignment.bib.bib
+Warning--entry type for "book2" isn't style-file defined
+--line 27 of file assignment.bib.bib
+Warning--entry type for "book3" isn't style-file defined
+--line 32 of file assignment.bib.bib
+Warning--entry type for "book4" isn't style-file defined
+--line 37 of file assignment.bib.bib
+Warning--entry type for "book5" isn't style-file defined
+--line 42 of file assignment.bib.bib
+Warning--entry type for "WPArchives" isn't style-file defined
+--line 47 of file assignment.bib.bib
+Warning--entry type for "tutorial2" isn't style-file defined
+--line 53 of file assignment.bib.bib
+Warning--entry type for "limit1" isn't style-file defined
+--line 69 of file assignment.bib.bib
+-- IEEEtran.bst version 1.13 (2008/09/30) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+
+Done.
+You've used 14 entries,
+            4039 wiz_defined-function locations,
+            853 strings with 8693 characters,
+and the built_in function-call counts, 5139 in all, are:
+= -- 307
+> -- 84
+< -- 17
++ -- 48
+- -- 14
+* -- 184
+:= -- 732
+add.period$ -- 29
+call.type$ -- 14
+change.case$ -- 14
+chr.to.int$ -- 42
+cite$ -- 14
+duplicate$ -- 474
+empty$ -- 573
+format.name$ -- 18
+if$ -- 1149
+int.to.chr$ -- 0
+int.to.str$ -- 14
+missing$ -- 97
+newline$ -- 65
+num.names$ -- 4
+pop$ -- 297
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 429
+stack$ -- 0
+substring$ -- 112
+swap$ -- 248
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 14
+warning$ -- 0
+while$ -- 12
+width$ -- 16
+write$ -- 107
+(There were 10 warnings)
