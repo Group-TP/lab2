@@ -1,0 +1,19 @@
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <!-- Third shard -->
+	<session-factory name="HibernateSessionFactory0">
+		<property name="dialect">org.hibernate.dialect.MySQLDialect</property>
+		<property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+		<property name="connection.url">jdbc:mysql://52.11.206.135:3306/sakila6</property>
+		<property name="connection.username">root</property>
+		<property name="connection.password"></property>
+		<property name="hibernate.hbm2ddl.auto">none</property>
+		<property name="hibernate.connection.shard_id">3</property>
+		<property name="hibernate.shard.enable_cross_shard_relationship_checks"> true </property>
+		<property name="hibernate.show_sql">true</property>
+		<property name="hibernate.format_sql">true</property>
+		<property name="hibernate.jdbc.batch_size">20</property>
+	</session-factory>
+</hibernate-configuration>
