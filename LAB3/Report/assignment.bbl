@@ -21,6 +21,15 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
+\bibitem{ref1}
+``https://dev.mysql.com/doc/refman/5.0/en/mysql-cluster.html.''
+
+\bibitem{ref2}
+``http://cloudpatterns.org/design\_patterns/overview.''
+
+\bibitem{ref3}
+``https://msdn.microsoft.com/en-us/library/dn600223.aspx.''
+
 \bibitem{MySQLCluster}
 ``https://github.com/zorani/mysqlstarcluster.''
 

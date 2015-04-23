@@ -8,54 +8,60 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: assignment.bib.bib
+Warning--entry type for "ref1" isn't style-file defined
+--line 15 of file assignment.bib.bib
+Warning--entry type for "ref2" isn't style-file defined
+--line 20 of file assignment.bib.bib
+Warning--entry type for "ref3" isn't style-file defined
+--line 25 of file assignment.bib.bib
 Warning--entry type for "MySQLCluster" isn't style-file defined
---line 12 of file assignment.bib.bib
+--line 30 of file assignment.bib.bib
 Warning--entry type for "MySQLCluster2" isn't style-file defined
---line 19 of file assignment.bib.bib
+--line 37 of file assignment.bib.bib
 -- IEEEtran.bst version 1.13 (2008/09/30) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 
 Done.
-You've used 2 entries,
+You've used 5 entries,
             4039 wiz_defined-function locations,
-            816 strings with 7404 characters,
-and the built_in function-call counts, 571 in all, are:
-= -- 20
-> -- 2
+            822 strings with 7578 characters,
+and the built_in function-call counts, 1270 in all, are:
+= -- 50
+> -- 5
 < -- 0
-+ -- 2
++ -- 5
 - -- 0
-* -- 27
-:= -- 88
-add.period$ -- 4
-call.type$ -- 2
-change.case$ -- 2
+* -- 39
+:= -- 178
+add.period$ -- 10
+call.type$ -- 5
+change.case$ -- 5
 chr.to.int$ -- 0
-cite$ -- 2
-duplicate$ -- 54
-empty$ -- 67
+cite$ -- 5
+duplicate$ -- 135
+empty$ -- 166
 format.name$ -- 0
-if$ -- 107
+if$ -- 263
 int.to.chr$ -- 0
-int.to.str$ -- 2
-missing$ -- 12
-newline$ -- 29
+int.to.str$ -- 5
+missing$ -- 30
+newline$ -- 38
 num.names$ -- 0
-pop$ -- 40
+pop$ -- 100
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 44
+skip$ -- 110
 stack$ -- 0
-substring$ -- 2
-swap$ -- 20
+substring$ -- 5
+swap$ -- 50
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 2
+type$ -- 5
 warning$ -- 0
 while$ -- 0
-width$ -- 3
-write$ -- 32
-(There were 2 warnings)
+width$ -- 6
+write$ -- 47
+(There were 5 warnings)

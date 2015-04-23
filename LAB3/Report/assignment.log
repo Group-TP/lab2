@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  23 APR 2015 15:38
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  23 APR 2015 15:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -612,7 +612,7 @@ Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
  (./assignment.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
 []\OT1/ptm/m/n/8 ``http://dev.mysql.com/doc/refman/5.6/en/mysql-cluster-install
 -
  []
@@ -629,22 +629,26 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
+
+Overfull \vbox (1.86485pt too high) has occurred while \output is active []
+
+
 [8] (./assignment.aux) ) 
 Here is how much of TeX's memory you used:
- 7497 strings out of 493315
- 125047 string characters out of 6137904
+ 7500 strings out of 493315
+ 125065 string characters out of 6137904
  215769 words of memory out of 5000000
- 10807 multiletter control sequences out of 15000+600000
+ 10810 multiletter control sequences out of 15000+600000
  40550 words of font info for 89 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 42i,10n,38p,1653b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,10n,38p,1668b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/bas
 e/8r.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cms
 y7.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></u
 sr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/
 texlive/2013/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/20
 13/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on assignment.pdf (8 pages, 581703 bytes).
+Output written on assignment.pdf (8 pages, 581853 bytes).
 PDF statistics:
  65 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream
